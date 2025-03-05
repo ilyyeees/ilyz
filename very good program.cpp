@@ -146,5 +146,5 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
         TranslateMessage(&msg);
         DispatchMessage(&msg);
     }
-    //made by ilyyeees as ilyz
+    //made by ilyyeees as ilyz yes
 }
